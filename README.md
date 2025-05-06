@@ -71,7 +71,7 @@
 ![dotenv Badge](https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logoColor=black)
 
   ## URL Link
-  The live deployed application is available at: 
+  The live deployed application is available at: https://book-search-engine-laxn.onrender.com/
   
   ## Contributing
   No contributions are needed for this project
