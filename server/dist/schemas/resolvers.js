@@ -4,7 +4,7 @@ const resolvers = {
     Query: {
         me: async (_parent, _args, context) => {
             if (context.user) {
-                return User.find({});
+                return User.findById(context.user._id);
             }
             throw new AuthenticationError('Could not authenticate user.');
         },
